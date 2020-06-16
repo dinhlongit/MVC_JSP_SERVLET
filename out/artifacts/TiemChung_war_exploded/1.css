@@ -1,0 +1,46 @@
+*{margin: 0; padding: 0;}
+
+table td {padding: 5px;border: 1px solid black;}
+
+table th {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+table {
+	width: 500px;
+	border-collapse: collapse;
+	box-shadow: 1px 1px 1px black;
+	margin: auto;
+}
+
+b{
+	color: blue;
+	width: 100px;
+	float: left;
+}
+
+
+label{
+	width: 100px;
+	float: left;
+	text-align: right;
+}
+input[type="submit"]{
+	box-shadow: 1px 1px 1px blue;
+	margin-left: 100px;
+
+}
+
+input[type="reset"]{
+
+	box-shadow: 2px 2px 2px blue;
+
+}
+
+
+input{
+	box-shadow: 2px 2px 2px white;
+	padding: 2px;
+	margin:5px;
+}
